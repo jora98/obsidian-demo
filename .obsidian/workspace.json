@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a08ddfe4e715ebe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Inbox/Hello World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Inbox/neovimnote.md",
+                "file": "0-Inbox/Hello World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Inbox/neovimnote.md",
+                "file": "0-Inbox/Hello World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Inbox/neovimnote.md"
+                "file": "0-Inbox/Hello World.md"
               }
             }
           }
@@ -183,10 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c207079fbe2ffac6",
+  "active": "a08ddfe4e715ebe2",
   "lastOpenFiles": [
-    "1-Projects/Holiday 2024/Planning Holiday 2024.md",
     "0-Inbox/neovimnote.md",
+    "0-Inbox/Hello World.md",
+    "1-Projects/Holiday 2024/Planning Holiday 2024.md",
     "1-Projects/Holiday 2024/Idea about Holiday in Norway.md",
     "2-Areas/Tech blog/Article - New AG for Containers in Azure.md",
     "0-Inbox/Test inbox note.md",
@@ -196,7 +209,6 @@
     "3-Resources/Filmmaking/Filmmaking.md",
     "3-Resources/Filmmaking",
     "3-Resources/Untitled.md",
-    "0-Inbox/Untitled.md",
     "1-Projects/Holiday 2024",
     "My test note.md",
     "PARA.md",
